@@ -1,7 +1,7 @@
 # GhostShift
 
 A workforce scheduling web application with interactive data visualization.
-Live Demo: [GhostShift](https://ghstshift.netlify.app) — hosted and deployed on Netlify.
+in the Live Demo: [GhostShift](https://ghstshift.netlify.app) — hosted and deployed on Netlify.
 
 Built for the INCO course — Innovation and Complexity Management.
 
